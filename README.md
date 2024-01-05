@@ -27,6 +27,7 @@ In 30th USENIX Security Symposium (USENIX Security 21) (pp. 3811-3828).
 
 
 
+
 ## Technical works
 - W.-Z. Yeoh, M. Kepkowski, G. Heide, D. Kaafar, and L. Hanzlik, “[Fast IDentity Online with Anonymous Credentials {FIDO-AC}.](https://www.usenix.org/conference/usenixsecurity23/presentation/yeoh)”, 32nd USENIX Security Symposium (USENIX Security 23).
 - M. Rosenberg, J. White, and C. Garman, “[zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure](https://eprint.iacr.org/2022/878)”, In 2023 IEEE Symposium on Security and Privacy (SP), pp. 790-808. IEEE, 2023.
@@ -34,6 +35,11 @@ In 30th USENIX Security Symposium (USENIX Security 21) (pp. 3811-3828).
 - H. Feng, H. Li, X. Pan, and Z. Zhao, “[A Formal Analysis of the FIDO UAF Protocol](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_4A-2_24363_paper.pdf)” in Proceedings 2021 Network and Distributed System Security Symposium, Virtual: Internet Society, 2021. doi: 10.14722/ndss.2021.24363.
 
 - M. Barbosa, A. Boldyreva, S. Chen, and B. Warinschi, “[Provable Security Analysis of FIDO2](https://link-springer-com.ezproxy.library.wisc.edu/chapter/10.1007/978-3-030-84252-9_5)” in Advances in Cryptology – CRYPTO 2021, T. Malkin and C. Peikert, Eds., in Lecture Notes in Computer Science, vol. 12827. Cham: Springer International Publishing, 2021, pp. 125–156. doi: 10.1007/978-3-030-84252-9_5.
+
+- M Kepkowski, L Hanzlik, I Wood, MA Kaafar "[How Not to Handle Keys: Timing Attacks on FIDO Authenticator Privacy](https://arxiv.org/abs/2205.08071)", Proceedings on Privacy Enhancing Technologies 4 (2022): 705-726.
+- SS Arora, S Badrinarayanan, S Raghuraman, M Shirvanian, K Wagner, G Watson "[Avoiding lock outs: Proactive FIDO account recovery using managerless group signatures](https://eprint.iacr.org/2022/1555)", Cryptology ePrint Archive.
+- E Dauterman, D Lin, H Corrigan-Gibbs, D Mazières "[Accountable authentication with privacy protection:
+The Larch system for universal login](https://www.usenix.org/conference/osdi23/presentation/dauterman)", in 17th USENIX Symposium on Operating Systems Design and Implementation (OSDI 23)
 
 ## White papers 
 - [Security of Passkeys in the Google Password Manager](https://security.googleblog.com/2022/10/SecurityofPasskeysintheGooglePasswordManager.html)
