@@ -22,7 +22,6 @@ Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications.
 - F. M. Farke, L. Lorenz, T. Schnitzler, P. Markert, and M. Dürmuth, “[‘You still use the password after all’ – Exploring FIDO2 Security Keys in a Small Company](https://www.usenix.org/conference/soups2020/presentation/farke)”, In Sixteenth Symposium on Usable Privacy and Security (SOUPS 2020) (pp. 19-35).
 - E. Ulqinaku, H. Assal, A. Abdou, S. Chiasson, and S. Capkun, “[Is Real-time Phishing Eliminated with FIDO? Social Engineering Downgrade Attacks against {FIDO} Protocols](https://www.usenix.org/conference/usenixsecurity21/presentation/ulqinaku)”.
 In 30th USENIX Security Symposium (USENIX Security 21) (pp. 3811-3828).
-- F. M. Farke, L. Lorenz, T. Schnitzler, P. Markert, and M. Dürmuth, “[‘You still use the password after all’ – Exploring FIDO2 Security Keys in a Small Company](https://www.usenix.org/conference/soups2022/presentation/farke)”, In Eighteenth Symposium on Usable Privacy and Security (SOUPS 2022) (pp. 523-540).
 - J Kunke, S Wiefling, M Ullmann, LL Iacono. "[Evaluation of Account Recovery Strategies with FIDO2-based Passwordless Authentication](https://arxiv.org/abs/2105.12477)"
 
 
